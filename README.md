@@ -1,16 +1,29 @@
-# hansungunivdorm
+# 한성대 상빌상빌 - 플러터 프로젝트
+> An unofficial application for Hansung University dorm that you can check out notices, contacts, frequently asked questions and your current status.
 
-hansungunivdorm
+![logo](https://github.com/FinnyJakey/hansung-univ-dorm-flutter/assets/71024092/029895b3-57ce-4bbb-9120-a4cad879fe2b)
 
-## Getting Started
+## Setup
+Run the following commands from your terminal:
+1. `git clone https://github.com/FinnyJakey/hansung-univ-dorm-flutter` to clone this repository.
+2. `flutter pub get` in the project root directory to install all the required dependencies.
 
-This project is a starting point for a Flutter application.
+## Download 한성대 상빌상빌 at:
+`[App store]`: https://apps.apple.com/app/id1665717616
 
-A few resources to get you started if this is your first Flutter project:
+`[Play store]`: https://play.google.com/store/apps/details?id=com.finnyjakey.hansungunivdorm
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<table width="100%">
+  <tbody>
+    <tr>
+      <td width="1%"><img src="https://github.com/FinnyJakey/hansung-univ-dorm-flutter/assets/71024092/33176830-8fda-4362-8161-7dc611f84668"/></td>
+      <td width="1%"><img src="https://github.com/FinnyJakey/hansung-univ-dorm-flutter/assets/71024092/be2efc63-fb2e-4c61-85dd-95e9c44b4848"/></td>
+       <td width="1%"><img src="https://github.com/FinnyJakey/hansung-univ-dorm-flutter/assets/71024092/564a954d-2f22-4aa5-8630-1bf6ddf9ef3d"/></td>
+    </tr>
+    <tr>
+      <td width="1%"><img src="https://github.com/FinnyJakey/hansung-univ-dorm-flutter/assets/71024092/df14f993-93a0-4f8e-8328-8d7c6d72875c"/></td>
+      <td width="1%"><img src="https://github.com/FinnyJakey/hansung-univ-dorm-flutter/assets/71024092/34cd97a6-5bfd-4bd8-8525-3c81192f10f4"/></td>
+    </tr>    
+  </tbody>
+</table>
